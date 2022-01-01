@@ -19,6 +19,9 @@ function main() {
 Expression with Python:
 
 print("Enter Radius")
+
 r = float(input())
+
 alan = 3.14 * r * r
+
 print("Area: " + str(area))
